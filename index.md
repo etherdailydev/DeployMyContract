@@ -7,7 +7,7 @@ Basically, DeployMyContract is Solidity smart contract deploy and verification t
 You can use select not only the MainNet Ethereum network but test networks such as Kovan, Ropsten, Rinkeby.
 
 ## Is it free?
-Sorry, no. We take a few fee for each verification that goes into the development of the project.
+We take a few fee for each verification that goes into the development of the project.
 
 ## Requirements
 
