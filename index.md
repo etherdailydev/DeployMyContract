@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/etherdailydev/DeployMyContract/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## What is DeployMyContract app?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Basically, DeployMyContract is Solidity smart contract deploy and verification tool. A few simple steps and your contract will be compiled, deployed on the Ethereum network and verified on the Etherscan.
+ 
+You can use select not only the MainNet Ethereum network but test networks such as Kovan, Ropsten, Rinkeby.
 
-### Markdown
+## Is it free?
+Sorry, no. We take a few fee for each verification that goes into the development of the project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Requirements
 
-```markdown
-Syntax highlighted code block
+* OS Windows 7 and higher
+* .NET 4.6.1
 
-# Header 1
-## Header 2
-### Header 3
+## How to use
 
-- Bulleted
-- List
+1. Start the application
 
-1. Numbered
-2. List
+![1](/Images/1.jpg)
 
-**Bold** and _Italic_ and `Code` text
+2. Select Ethereum network and source file or copy and past contract code to field.
 
-[Link](url) and ![Image](src)
-```
+![2](/Images/2.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3. Select contract and wallet key file, fill in constructor parameters if they exist. 
 
-### Jekyll Themes
+![3](/Images/3.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etherdailydev/DeployMyContract/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+4. Waiting for until your contract is tracked by Etherscan. 
 
-### Support or Contact
+![4](/Images/4.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+5. Congrutulation! Your contract was deployed and verified. 
+
+![5](/Images/5.jpg)
+
+
+
+## Support 
+
+Having trouble with DeploySmartContract? Email to [etherdailydev@gmail.com](mailto:etherdailydev@gmail.com) and we’ll help you sort it out.
