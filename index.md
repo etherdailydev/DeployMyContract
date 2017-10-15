@@ -1,5 +1,3 @@
-# DeployMyContract
-
 ## What is DeployMyContract app?
 
 Basically, DeployMyContract is Solidity smart contract deploy and verification tool. A few simple steps and your contract will be compiled, deployed on the Ethereum network and verified on the Etherscan.
