@@ -39,4 +39,4 @@ Sorry, no. We take a few fee for each verification that goes into the developmen
 
 ## Support 
 
-Having trouble with DeploySmartContract? Email to [etherdailydev@gmail.com](mailto:etherdailydev@gmail.com) and we’ll help you sort it out.
+Having trouble with DeployMyContract? Email to [etherdailydev@gmail.com](mailto:etherdailydev@gmail.com) and we’ll help you sort it out.
