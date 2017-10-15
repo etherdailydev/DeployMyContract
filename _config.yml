@@ -1,4 +1,5 @@
 theme: jekyll-theme-tactile
 title: DeployMyContract
 show_downloads: true
-site.github.zip_url=https://github.com/etherdailydev/DeployMyContract/blob/master/DeployMyContract.zip
+github:
+ zip_url: https://github.com/etherdailydev/DeployMyContract/blob/master/DeployMyContract.zip
