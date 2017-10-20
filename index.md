@@ -24,7 +24,11 @@ Select Ethereum network and source file or copy and past contract code to field.
 
 ![2](/Images/2.jpg)
 
-Select contract and wallet key file, fill in constructor parameters if they exist. 
+Showing compiler warnings.
+
+![6](/Images/6.jpg)
+
+Select contract and wallet key file, fill in constructor parameters if they exist.
 
 ![3](/Images/3.jpg)
 
